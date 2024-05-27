@@ -11,7 +11,7 @@ This project is dedicated to solve the problem of strong coupling using dependen
 Installation
 
   Clone the repository:
-    git clone https://github.com/Oulakbir/Partie1-JEE.git
+    git clone https://github.com/MeriameZaouia/JEE-Partie1
   Navigate to the project directory:
     cd project
   Install dependencies:
